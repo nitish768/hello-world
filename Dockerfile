@@ -5,3 +5,4 @@ RUN  cd  WORK_REPO
 WORKDIR  /WORK_REPO
 ADD hi.py .
 CMD ["python", "-u", "hi.py"]
+# testing_01
